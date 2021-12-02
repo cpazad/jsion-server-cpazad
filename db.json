@@ -1,0 +1,133 @@
+{
+    "products" : [
+        {
+            "id"    : 1,
+            "img"   : "https://freedombyte.com/wp-content/uploads/2021/11/nokia-x100.jpg",
+            "name"  : "Nokia",
+            "price" : 25000 
+        },
+        {
+            "id"    : 2,
+            "img"   : "https://freedombyte.com/wp-content/uploads/2021/11/sony-xperia-5-iii.jpg",
+            "name"  : "Sony",
+            "price" : 25000   
+        },
+        {
+            "id"    : 3,
+            "img"   : "https://freedombyte.com/wp-content/uploads/2021/11/apple-iphone-13.jpg",
+            "name"  : "Iphone-13",
+            "price" : 90000   
+        },
+        {
+            "id"    : 4,
+            "img"   : "https://freedombyte.com/wp-content/uploads/2021/11/xiaomi-redmi-note11-pro.jpg",
+            "name"  : "Xiaomi",
+            "price" : 15000   
+        },
+        {
+            "id"    : 5,
+            "img"   : "https://freedombyte.com/wp-content/uploads/2021/11/lg-q61.jpg",
+            "name"  : "LG",
+            "price" : 35000   
+        },
+        {
+            "id"    : 6,
+            "img"   : "https://freedombyte.com/wp-content/uploads/2021/11/sony-xperia-l4.jpg",
+            "name"  : "Experia",
+            "price" : 55000   
+        },
+        {
+            "id"    : 7,
+            "img"   : "https://freedombyte.com/wp-content/uploads/2021/11/samsung-galaxy-a52s-5g.jpg",
+            "name"  : "Samsung",
+            "price" : 65000   
+        },
+        {
+            "id"    : 8,
+            "img"   : "https://freedombyte.com/wp-content/uploads/2021/11/huawei-mate30-pro-5g.jpg",
+            "name"  : "Huawei",
+            "price" : 20000   
+        },
+        {
+            "id"    : 9,
+            "img"   : "https://freedombyte.com/wp-content/uploads/2021/11/oppo-reno5-f-cph2217.jpg",
+            "name"  : "Oppo",
+            "price" : 45000   
+        },
+        {
+            "id"    : 10,
+            "img"   : "https://freedombyte.com/wp-content/uploads/2021/11/realme-gt-master.jpg",
+            "name"  : "RealMe GT",
+            "price" : 25000   
+        },
+        {
+            "id"    : 11,
+            "img"   : "https://freedombyte.com/wp-content/uploads/2021/11/google-pixel-4a.jpg",
+            "name"  : "Pixel",
+            "price" : 25000   
+        },
+        {
+            "id"    : 12,
+            "img"   : "https://freedombyte.com/wp-content/uploads/2021/11/xiaomi-poco-m3-pro-5g.jpg",
+            "name"  : "Poco Phone",
+            "price" : 25000   
+        }
+    ],
+    "Categories" : [
+        {
+            "group" : "Mobile",
+            "build" : "Local"
+        },
+        {
+            "group" : "Tab",
+            "build" : "China"
+        },
+        {
+            "group" : "Smart Watch",
+            "build" : "Korea"
+        },
+        {
+            "group" : "VR Glass",
+            "build" : "Singapore"
+        }
+    ],
+
+    "users" :[
+        {
+            "id":"1",
+            "image": "https://freedombyte.com/wp-content/uploads/2021/11/man7.jpeg",
+            "name":"Radhwan Rahman",
+            "age":"15",
+            "skill": "PHP",
+            "gender":"Male",
+            "location": "Rampura"
+        },
+        {
+            "id":"2",
+            "image": "https://freedombyte.com/wp-content/uploads/2021/11/man6.jpg",
+            "name":"Zahidur Rahman",
+            "age":"45",
+            "skill": "Laravel",
+            "gender":"Male",
+            "location": "Khilgaon"
+        },
+        {
+            "id":"3",
+            "image": "https://freedombyte.com/wp-content/uploads/2021/11/woman3.jpg",
+            "name":"Zara hakim",
+            "age":"16",
+            "skill": "Android",
+            "gender":"Femail",
+            "location": "Gulshan"
+        },
+        {
+            "id":"4",
+            "image": "https://freedombyte.com/wp-content/uploads/2021/11/woman4.jpg",
+            "name":"Lyana akter",
+            "age":"25",
+            "skill": "Kotlin",
+            "gender":"Female",
+            "location": "Banani"
+        }
+    ]
+}
